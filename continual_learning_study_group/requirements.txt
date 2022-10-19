@@ -1,0 +1,6 @@
+torch
+pandas
+numpy
+matplotlib
+scikit-learn
+avalanche-lib
